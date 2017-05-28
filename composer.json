@@ -1,0 +1,10 @@
+{
+    "name": "kzbandai/phpblt_07_firework",
+    "authors": [
+        {
+            "name": "kzbandai",
+            "email": "nisigin@gmail.com"
+        }
+    ],
+    "require": {}
+}
